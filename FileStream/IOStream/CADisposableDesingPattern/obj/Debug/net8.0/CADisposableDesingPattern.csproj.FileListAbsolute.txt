@@ -1,0 +1,14 @@
+D:\DEPI\FileStream\IOStream\CADisposableDesingPattern\bin\Debug\net8.0\CADisposableDesingPattern.exe
+D:\DEPI\FileStream\IOStream\CADisposableDesingPattern\bin\Debug\net8.0\CADisposableDesingPattern.deps.json
+D:\DEPI\FileStream\IOStream\CADisposableDesingPattern\bin\Debug\net8.0\CADisposableDesingPattern.runtimeconfig.json
+D:\DEPI\FileStream\IOStream\CADisposableDesingPattern\bin\Debug\net8.0\CADisposableDesingPattern.dll
+D:\DEPI\FileStream\IOStream\CADisposableDesingPattern\bin\Debug\net8.0\CADisposableDesingPattern.pdb
+D:\DEPI\FileStream\IOStream\CADisposableDesingPattern\obj\Debug\net8.0\CADisposableDesingPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\FileStream\IOStream\CADisposableDesingPattern\obj\Debug\net8.0\CADisposableDesingPattern.AssemblyInfoInputs.cache
+D:\DEPI\FileStream\IOStream\CADisposableDesingPattern\obj\Debug\net8.0\CADisposableDesingPattern.AssemblyInfo.cs
+D:\DEPI\FileStream\IOStream\CADisposableDesingPattern\obj\Debug\net8.0\CADisposableDesingPattern.csproj.CoreCompileInputs.cache
+D:\DEPI\FileStream\IOStream\CADisposableDesingPattern\obj\Debug\net8.0\CADisposableDesingPattern.dll
+D:\DEPI\FileStream\IOStream\CADisposableDesingPattern\obj\Debug\net8.0\refint\CADisposableDesingPattern.dll
+D:\DEPI\FileStream\IOStream\CADisposableDesingPattern\obj\Debug\net8.0\CADisposableDesingPattern.pdb
+D:\DEPI\FileStream\IOStream\CADisposableDesingPattern\obj\Debug\net8.0\CADisposableDesingPattern.genruntimeconfig.cache
+D:\DEPI\FileStream\IOStream\CADisposableDesingPattern\obj\Debug\net8.0\ref\CADisposableDesingPattern.dll

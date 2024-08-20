@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CADisposableDesingPattern", "CADisposableDesingPattern\CADisposableDesingPattern.csproj", "{B594A42D-9E10-468C-ABB3-3517F588D83D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CAFileStream", "CAFileStream\CAFileStream.csproj", "{7AE353B7-B4F9-41D5-B7E4-17EE9D54886A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B594A42D-9E10-468C-ABB3-3517F588D83D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B594A42D-9E10-468C-ABB3-3517F588D83D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B594A42D-9E10-468C-ABB3-3517F588D83D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B594A42D-9E10-468C-ABB3-3517F588D83D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AE353B7-B4F9-41D5-B7E4-17EE9D54886A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AE353B7-B4F9-41D5-B7E4-17EE9D54886A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AE353B7-B4F9-41D5-B7E4-17EE9D54886A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AE353B7-B4F9-41D5-B7E4-17EE9D54886A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F7EC134-3537-4B9B-8A8B-66FC09AEB60A}
+	EndGlobalSection
+EndGlobal

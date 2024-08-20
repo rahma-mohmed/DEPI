@@ -1,0 +1,14 @@
+D:\DEPI\FileStream\IOStream\CAFileStream\bin\Debug\net8.0\CAFileStream.exe
+D:\DEPI\FileStream\IOStream\CAFileStream\bin\Debug\net8.0\CAFileStream.deps.json
+D:\DEPI\FileStream\IOStream\CAFileStream\bin\Debug\net8.0\CAFileStream.runtimeconfig.json
+D:\DEPI\FileStream\IOStream\CAFileStream\bin\Debug\net8.0\CAFileStream.dll
+D:\DEPI\FileStream\IOStream\CAFileStream\bin\Debug\net8.0\CAFileStream.pdb
+D:\DEPI\FileStream\IOStream\CAFileStream\obj\Debug\net8.0\CAFileStream.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\FileStream\IOStream\CAFileStream\obj\Debug\net8.0\CAFileStream.AssemblyInfoInputs.cache
+D:\DEPI\FileStream\IOStream\CAFileStream\obj\Debug\net8.0\CAFileStream.AssemblyInfo.cs
+D:\DEPI\FileStream\IOStream\CAFileStream\obj\Debug\net8.0\CAFileStream.csproj.CoreCompileInputs.cache
+D:\DEPI\FileStream\IOStream\CAFileStream\obj\Debug\net8.0\CAFileStream.dll
+D:\DEPI\FileStream\IOStream\CAFileStream\obj\Debug\net8.0\refint\CAFileStream.dll
+D:\DEPI\FileStream\IOStream\CAFileStream\obj\Debug\net8.0\CAFileStream.pdb
+D:\DEPI\FileStream\IOStream\CAFileStream\obj\Debug\net8.0\CAFileStream.genruntimeconfig.cache
+D:\DEPI\FileStream\IOStream\CAFileStream\obj\Debug\net8.0\ref\CAFileStream.dll
