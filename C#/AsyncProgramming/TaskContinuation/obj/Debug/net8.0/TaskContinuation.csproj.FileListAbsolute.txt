@@ -1,0 +1,15 @@
+D:\DEPI\C#\AsyncProgramming\TaskContinuation\bin\Debug\net8.0\TaskContinuation.exe
+D:\DEPI\C#\AsyncProgramming\TaskContinuation\bin\Debug\net8.0\TaskContinuation.deps.json
+D:\DEPI\C#\AsyncProgramming\TaskContinuation\bin\Debug\net8.0\TaskContinuation.runtimeconfig.json
+D:\DEPI\C#\AsyncProgramming\TaskContinuation\bin\Debug\net8.0\TaskContinuation.dll
+D:\DEPI\C#\AsyncProgramming\TaskContinuation\bin\Debug\net8.0\TaskContinuation.pdb
+D:\DEPI\C#\AsyncProgramming\TaskContinuation\obj\Debug\net8.0\TaskContinuation.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\C#\AsyncProgramming\TaskContinuation\obj\Debug\net8.0\TaskContinuation.AssemblyInfoInputs.cache
+D:\DEPI\C#\AsyncProgramming\TaskContinuation\obj\Debug\net8.0\TaskContinuation.AssemblyInfo.cs
+D:\DEPI\C#\AsyncProgramming\TaskContinuation\obj\Debug\net8.0\TaskContinuation.csproj.CoreCompileInputs.cache
+D:\DEPI\C#\AsyncProgramming\TaskContinuation\obj\Debug\net8.0\TaskContinuation.sourcelink.json
+D:\DEPI\C#\AsyncProgramming\TaskContinuation\obj\Debug\net8.0\TaskContinuation.dll
+D:\DEPI\C#\AsyncProgramming\TaskContinuation\obj\Debug\net8.0\refint\TaskContinuation.dll
+D:\DEPI\C#\AsyncProgramming\TaskContinuation\obj\Debug\net8.0\TaskContinuation.pdb
+D:\DEPI\C#\AsyncProgramming\TaskContinuation\obj\Debug\net8.0\TaskContinuation.genruntimeconfig.cache
+D:\DEPI\C#\AsyncProgramming\TaskContinuation\obj\Debug\net8.0\ref\TaskContinuation.dll

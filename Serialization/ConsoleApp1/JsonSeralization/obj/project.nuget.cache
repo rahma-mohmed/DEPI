@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4lxiHGt0iN8=",
+  "success": true,
+  "projectFilePath": "D:\\DEPI\\Serialization\\ConsoleApp1\\JsonSeralization\\JsonSeralization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\3ML4Ever\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

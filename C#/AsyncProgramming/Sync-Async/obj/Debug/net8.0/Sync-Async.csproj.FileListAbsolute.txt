@@ -1,0 +1,15 @@
+D:\DEPI\C#\AsyncProgramming\Sync-Async\bin\Debug\net8.0\Sync-Async.exe
+D:\DEPI\C#\AsyncProgramming\Sync-Async\bin\Debug\net8.0\Sync-Async.deps.json
+D:\DEPI\C#\AsyncProgramming\Sync-Async\bin\Debug\net8.0\Sync-Async.runtimeconfig.json
+D:\DEPI\C#\AsyncProgramming\Sync-Async\bin\Debug\net8.0\Sync-Async.dll
+D:\DEPI\C#\AsyncProgramming\Sync-Async\bin\Debug\net8.0\Sync-Async.pdb
+D:\DEPI\C#\AsyncProgramming\Sync-Async\obj\Debug\net8.0\Sync-Async.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\C#\AsyncProgramming\Sync-Async\obj\Debug\net8.0\Sync-Async.AssemblyInfoInputs.cache
+D:\DEPI\C#\AsyncProgramming\Sync-Async\obj\Debug\net8.0\Sync-Async.AssemblyInfo.cs
+D:\DEPI\C#\AsyncProgramming\Sync-Async\obj\Debug\net8.0\Sync-Async.csproj.CoreCompileInputs.cache
+D:\DEPI\C#\AsyncProgramming\Sync-Async\obj\Debug\net8.0\Sync-Async.sourcelink.json
+D:\DEPI\C#\AsyncProgramming\Sync-Async\obj\Debug\net8.0\Sync-Async.dll
+D:\DEPI\C#\AsyncProgramming\Sync-Async\obj\Debug\net8.0\refint\Sync-Async.dll
+D:\DEPI\C#\AsyncProgramming\Sync-Async\obj\Debug\net8.0\Sync-Async.pdb
+D:\DEPI\C#\AsyncProgramming\Sync-Async\obj\Debug\net8.0\Sync-Async.genruntimeconfig.cache
+D:\DEPI\C#\AsyncProgramming\Sync-Async\obj\Debug\net8.0\ref\Sync-Async.dll

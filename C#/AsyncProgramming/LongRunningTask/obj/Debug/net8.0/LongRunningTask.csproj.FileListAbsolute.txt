@@ -1,0 +1,15 @@
+D:\DEPI\C#\AsyncProgramming\LongRunningTask\bin\Debug\net8.0\LongRunningTask.exe
+D:\DEPI\C#\AsyncProgramming\LongRunningTask\bin\Debug\net8.0\LongRunningTask.deps.json
+D:\DEPI\C#\AsyncProgramming\LongRunningTask\bin\Debug\net8.0\LongRunningTask.runtimeconfig.json
+D:\DEPI\C#\AsyncProgramming\LongRunningTask\bin\Debug\net8.0\LongRunningTask.dll
+D:\DEPI\C#\AsyncProgramming\LongRunningTask\bin\Debug\net8.0\LongRunningTask.pdb
+D:\DEPI\C#\AsyncProgramming\LongRunningTask\obj\Debug\net8.0\LongRunningTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\C#\AsyncProgramming\LongRunningTask\obj\Debug\net8.0\LongRunningTask.AssemblyInfoInputs.cache
+D:\DEPI\C#\AsyncProgramming\LongRunningTask\obj\Debug\net8.0\LongRunningTask.AssemblyInfo.cs
+D:\DEPI\C#\AsyncProgramming\LongRunningTask\obj\Debug\net8.0\LongRunningTask.csproj.CoreCompileInputs.cache
+D:\DEPI\C#\AsyncProgramming\LongRunningTask\obj\Debug\net8.0\LongRunningTask.sourcelink.json
+D:\DEPI\C#\AsyncProgramming\LongRunningTask\obj\Debug\net8.0\LongRunningTask.dll
+D:\DEPI\C#\AsyncProgramming\LongRunningTask\obj\Debug\net8.0\refint\LongRunningTask.dll
+D:\DEPI\C#\AsyncProgramming\LongRunningTask\obj\Debug\net8.0\LongRunningTask.pdb
+D:\DEPI\C#\AsyncProgramming\LongRunningTask\obj\Debug\net8.0\LongRunningTask.genruntimeconfig.cache
+D:\DEPI\C#\AsyncProgramming\LongRunningTask\obj\Debug\net8.0\ref\LongRunningTask.dll

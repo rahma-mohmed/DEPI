@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CADisposableDesingPattern",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CAFileStream", "CAFileStream\CAFileStream.csproj", "{7AE353B7-B4F9-41D5-B7E4-17EE9D54886A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAStreamDecorator", "CAStreamDecorator\CAStreamDecorator.csproj", "{6375804E-535C-448D-B9DD-42F6C6A678A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7AE353B7-B4F9-41D5-B7E4-17EE9D54886A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7AE353B7-B4F9-41D5-B7E4-17EE9D54886A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7AE353B7-B4F9-41D5-B7E4-17EE9D54886A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6375804E-535C-448D-B9DD-42F6C6A678A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6375804E-535C-448D-B9DD-42F6C6A678A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6375804E-535C-448D-B9DD-42F6C6A678A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6375804E-535C-448D-B9DD-42F6C6A678A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

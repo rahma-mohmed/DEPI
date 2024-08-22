@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Method02();
+            Method08();
             Console.ReadKey();
         }
 
@@ -12,19 +12,20 @@
         {
             string path = "D:\\DEPI\\FileStream\\IOStream\\users.csv";
 
-            using (FileStream fs = new FileStream(path, FileMode.Open , FileAccess.ReadWrite))
+            using (FileStream fs = new FileStream(path, FileMode.Open, FileAccess.ReadWrite))
             {
                 byte[] data = new byte[fs.Length];
 
-                int numBytesToRead = (int) fs.Length;
+                int numBytesToRead = (int)fs.Length;
                 int numBytesRead = 0;
 
-                while (numBytesToRead > 0) { 
+                while (numBytesToRead > 0)
+                {
                     int n = fs.Read(data, numBytesRead, numBytesToRead);
 
-                    if(n == 0)
+                    if (n == 0)
                     {
-                        break; 
+                        break;
                     }
                     numBytesToRead -= n;
                     numBytesRead += n;
@@ -51,6 +52,75 @@
                 {
                     Console.WriteLine(fs2.ReadByte());
                 }
+            }
+        }
+
+
+        static void Method03()
+        {
+            var path = "D:\\DEPI\\FileStream\\IOStream\\t2.txt";
+
+            using (var sw = new StreamWriter(path))
+            {
+                sw.WriteLine("This Is C#");
+            }
+        }
+
+        static void Method04()
+        {
+            var path = "D:\\DEPI\\FileStream\\IOStream\\t2.txt";
+
+            using(var sr = new StreamReader(path))
+            {
+                string line;
+
+                while((line = sr.ReadLine()) != null)
+                {
+                    Console.Write(line);
+                }
+            }
+        }
+
+        static void Method05()
+        {
+            var path = "D:\\DEPI\\FileStream\\IOStream\\t3.txt";
+
+            string[] lines =
+            {
+                "Hello",
+                "My",
+                "Friends"
+            };
+
+            File.WriteAllLines(path, lines);
+        }
+
+        static void Method06()
+        {
+            var path = "D:\\DEPI\\FileStream\\IOStream\\t4.txt";
+
+            string txt = "Hello My Friends welcome to my GitHub account";
+
+            File.WriteAllText(path, txt);
+        }
+
+        static void Method07()
+        {
+            var path = "D:\\DEPI\\FileStream\\IOStream\\t4.txt";
+
+            var res = File.ReadAllText(path);
+
+            Console.WriteLine(res);
+        }
+
+        static void Method08() {
+            var path = "D:\\DEPI\\FileStream\\IOStream\\t4.txt";
+
+            var res = File.ReadAllLines(path);
+
+            foreach(var line in res)
+            {
+                Console.Write(line);
             }
         }
     }

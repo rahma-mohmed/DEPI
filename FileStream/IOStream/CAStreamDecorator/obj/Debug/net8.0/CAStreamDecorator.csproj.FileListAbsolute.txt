@@ -1,0 +1,15 @@
+D:\DEPI\FileStream\IOStream\CAStreamDecorator\bin\Debug\net8.0\CAStreamDecorator.exe
+D:\DEPI\FileStream\IOStream\CAStreamDecorator\bin\Debug\net8.0\CAStreamDecorator.deps.json
+D:\DEPI\FileStream\IOStream\CAStreamDecorator\bin\Debug\net8.0\CAStreamDecorator.runtimeconfig.json
+D:\DEPI\FileStream\IOStream\CAStreamDecorator\bin\Debug\net8.0\CAStreamDecorator.dll
+D:\DEPI\FileStream\IOStream\CAStreamDecorator\bin\Debug\net8.0\CAStreamDecorator.pdb
+D:\DEPI\FileStream\IOStream\CAStreamDecorator\obj\Debug\net8.0\CAStreamDecorator.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\FileStream\IOStream\CAStreamDecorator\obj\Debug\net8.0\CAStreamDecorator.AssemblyInfoInputs.cache
+D:\DEPI\FileStream\IOStream\CAStreamDecorator\obj\Debug\net8.0\CAStreamDecorator.AssemblyInfo.cs
+D:\DEPI\FileStream\IOStream\CAStreamDecorator\obj\Debug\net8.0\CAStreamDecorator.csproj.CoreCompileInputs.cache
+D:\DEPI\FileStream\IOStream\CAStreamDecorator\obj\Debug\net8.0\CAStreamDecorator.sourcelink.json
+D:\DEPI\FileStream\IOStream\CAStreamDecorator\obj\Debug\net8.0\CAStreamDecorator.dll
+D:\DEPI\FileStream\IOStream\CAStreamDecorator\obj\Debug\net8.0\refint\CAStreamDecorator.dll
+D:\DEPI\FileStream\IOStream\CAStreamDecorator\obj\Debug\net8.0\CAStreamDecorator.pdb
+D:\DEPI\FileStream\IOStream\CAStreamDecorator\obj\Debug\net8.0\CAStreamDecorator.genruntimeconfig.cache
+D:\DEPI\FileStream\IOStream\CAStreamDecorator\obj\Debug\net8.0\ref\CAStreamDecorator.dll

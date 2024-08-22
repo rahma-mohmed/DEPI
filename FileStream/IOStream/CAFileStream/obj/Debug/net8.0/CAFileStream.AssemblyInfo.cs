@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CAFileStream")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ce3e24b4a32fa6f71858a1ca92e9d68537ecc4e")]
 [assembly: System.Reflection.AssemblyProductAttribute("CAFileStream")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CAFileStream")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

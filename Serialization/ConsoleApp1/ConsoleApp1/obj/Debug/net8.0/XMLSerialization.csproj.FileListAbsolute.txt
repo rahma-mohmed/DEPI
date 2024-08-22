@@ -1,0 +1,15 @@
+D:\DEPI\Serialization\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\XMLSerialization.exe
+D:\DEPI\Serialization\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\XMLSerialization.deps.json
+D:\DEPI\Serialization\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\XMLSerialization.runtimeconfig.json
+D:\DEPI\Serialization\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\XMLSerialization.dll
+D:\DEPI\Serialization\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\XMLSerialization.pdb
+D:\DEPI\Serialization\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\XMLSerialization.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\Serialization\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\XMLSerialization.AssemblyInfoInputs.cache
+D:\DEPI\Serialization\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\XMLSerialization.AssemblyInfo.cs
+D:\DEPI\Serialization\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\XMLSerialization.csproj.CoreCompileInputs.cache
+D:\DEPI\Serialization\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\XMLSerialization.sourcelink.json
+D:\DEPI\Serialization\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\XMLSerialization.dll
+D:\DEPI\Serialization\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\XMLSerialization.dll
+D:\DEPI\Serialization\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\XMLSerialization.pdb
+D:\DEPI\Serialization\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\XMLSerialization.genruntimeconfig.cache
+D:\DEPI\Serialization\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\XMLSerialization.dll

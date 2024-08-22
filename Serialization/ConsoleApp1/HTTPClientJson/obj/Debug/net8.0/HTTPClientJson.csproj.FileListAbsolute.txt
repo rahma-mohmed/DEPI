@@ -1,0 +1,15 @@
+D:\DEPI\Serialization\ConsoleApp1\HTTPClientJson\bin\Debug\net8.0\HTTPClientJson.exe
+D:\DEPI\Serialization\ConsoleApp1\HTTPClientJson\bin\Debug\net8.0\HTTPClientJson.deps.json
+D:\DEPI\Serialization\ConsoleApp1\HTTPClientJson\bin\Debug\net8.0\HTTPClientJson.runtimeconfig.json
+D:\DEPI\Serialization\ConsoleApp1\HTTPClientJson\bin\Debug\net8.0\HTTPClientJson.dll
+D:\DEPI\Serialization\ConsoleApp1\HTTPClientJson\bin\Debug\net8.0\HTTPClientJson.pdb
+D:\DEPI\Serialization\ConsoleApp1\HTTPClientJson\obj\Debug\net8.0\HTTPClientJson.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\Serialization\ConsoleApp1\HTTPClientJson\obj\Debug\net8.0\HTTPClientJson.AssemblyInfoInputs.cache
+D:\DEPI\Serialization\ConsoleApp1\HTTPClientJson\obj\Debug\net8.0\HTTPClientJson.AssemblyInfo.cs
+D:\DEPI\Serialization\ConsoleApp1\HTTPClientJson\obj\Debug\net8.0\HTTPClientJson.csproj.CoreCompileInputs.cache
+D:\DEPI\Serialization\ConsoleApp1\HTTPClientJson\obj\Debug\net8.0\HTTPClientJson.sourcelink.json
+D:\DEPI\Serialization\ConsoleApp1\HTTPClientJson\obj\Debug\net8.0\HTTPClientJson.dll
+D:\DEPI\Serialization\ConsoleApp1\HTTPClientJson\obj\Debug\net8.0\refint\HTTPClientJson.dll
+D:\DEPI\Serialization\ConsoleApp1\HTTPClientJson\obj\Debug\net8.0\HTTPClientJson.pdb
+D:\DEPI\Serialization\ConsoleApp1\HTTPClientJson\obj\Debug\net8.0\HTTPClientJson.genruntimeconfig.cache
+D:\DEPI\Serialization\ConsoleApp1\HTTPClientJson\obj\Debug\net8.0\ref\HTTPClientJson.dll

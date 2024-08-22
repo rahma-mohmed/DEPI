@@ -12,3 +12,4 @@ D:\DEPI\FileStream\IOStream\CAFileStream\obj\Debug\net8.0\refint\CAFileStream.dl
 D:\DEPI\FileStream\IOStream\CAFileStream\obj\Debug\net8.0\CAFileStream.pdb
 D:\DEPI\FileStream\IOStream\CAFileStream\obj\Debug\net8.0\CAFileStream.genruntimeconfig.cache
 D:\DEPI\FileStream\IOStream\CAFileStream\obj\Debug\net8.0\ref\CAFileStream.dll
+D:\DEPI\FileStream\IOStream\CAFileStream\obj\Debug\net8.0\CAFileStream.sourcelink.json
