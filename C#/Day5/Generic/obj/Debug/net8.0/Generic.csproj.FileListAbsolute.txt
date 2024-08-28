@@ -1,0 +1,15 @@
+D:\DEPI\C#\Day5\Generic\bin\Debug\net8.0\Generic.exe
+D:\DEPI\C#\Day5\Generic\bin\Debug\net8.0\Generic.deps.json
+D:\DEPI\C#\Day5\Generic\bin\Debug\net8.0\Generic.runtimeconfig.json
+D:\DEPI\C#\Day5\Generic\bin\Debug\net8.0\Generic.dll
+D:\DEPI\C#\Day5\Generic\bin\Debug\net8.0\Generic.pdb
+D:\DEPI\C#\Day5\Generic\obj\Debug\net8.0\Generic.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\C#\Day5\Generic\obj\Debug\net8.0\Generic.AssemblyInfoInputs.cache
+D:\DEPI\C#\Day5\Generic\obj\Debug\net8.0\Generic.AssemblyInfo.cs
+D:\DEPI\C#\Day5\Generic\obj\Debug\net8.0\Generic.csproj.CoreCompileInputs.cache
+D:\DEPI\C#\Day5\Generic\obj\Debug\net8.0\Generic.sourcelink.json
+D:\DEPI\C#\Day5\Generic\obj\Debug\net8.0\Generic.dll
+D:\DEPI\C#\Day5\Generic\obj\Debug\net8.0\refint\Generic.dll
+D:\DEPI\C#\Day5\Generic\obj\Debug\net8.0\Generic.pdb
+D:\DEPI\C#\Day5\Generic\obj\Debug\net8.0\Generic.genruntimeconfig.cache
+D:\DEPI\C#\Day5\Generic\obj\Debug\net8.0\ref\Generic.dll

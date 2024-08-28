@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DEPI\\C#\\Review\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54CF3EBF-8EB5-4A78-AF43-E344DFE30977}|..\\CustomException\\CustomException.csproj|d:\\depi\\c#\\review\\customexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54CF3EBF-8EB5-4A78-AF43-E344DFE30977}|..\\CustomException\\CustomException.csproj|solutionrelative:customexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9210F370-B102-49CB-A0B2-843752595AA7}|..\\Base Keyword\\Base Keyword.csproj|d:\\depi\\c#\\review\\base keyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9210F370-B102-49CB-A0B2-843752595AA7}|..\\Base Keyword\\Base Keyword.csproj|solutionrelative:base keyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4070AB1-3D83-40FD-A25A-77799AD93610}|..\\Virtual\\Virtual.csproj|d:\\depi\\c#\\review\\virtual\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4070AB1-3D83-40FD-A25A-77799AD93610}|..\\Virtual\\Virtual.csproj|solutionrelative:virtual\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0DBF7D-6744-4C5C-8D39-C7A11BA92984}|..\\Abstract\u0026Sealed\\Abstract\u0026Sealed.csproj|d:\\depi\\c#\\review\\abstract\u0026sealed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD0DBF7D-6744-4C5C-8D39-C7A11BA92984}|..\\Abstract\u0026Sealed\\Abstract\u0026Sealed.csproj|solutionrelative:abstract\u0026sealed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A04F402-E1E4-4B54-83B1-A5ECBC18976C}|Lab4.csproj|d:\\depi\\c#\\review\\lab4\\testgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A04F402-E1E4-4B54-83B1-A5ECBC18976C}|Lab4.csproj|solutionrelative:lab4\\testgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A04F402-E1E4-4B54-83B1-A5ECBC18976C}|Lab4.csproj|d:\\depi\\c#\\review\\lab4\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A04F402-E1E4-4B54-83B1-A5ECBC18976C}|Lab4.csproj|solutionrelative:lab4\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A04F402-E1E4-4B54-83B1-A5ECBC18976C}|Lab4.csproj|d:\\depi\\c#\\review\\lab4\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A04F402-E1E4-4B54-83B1-A5ECBC18976C}|Lab4.csproj|solutionrelative:lab4\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A04F402-E1E4-4B54-83B1-A5ECBC18976C}|Lab4.csproj|d:\\depi\\c#\\review\\lab4\\lab4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2A04F402-E1E4-4B54-83B1-A5ECBC18976C}|Lab4.csproj|solutionrelative:lab4\\lab4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A04F402-E1E4-4B54-83B1-A5ECBC18976C}|Lab4.csproj|d:\\depi\\c#\\review\\lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A04F402-E1E4-4B54-83B1-A5ECBC18976C}|Lab4.csproj|solutionrelative:lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A04F402-E1E4-4B54-83B1-A5ECBC18976C}|Lab4.csproj|d:\\depi\\c#\\review\\lab4\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A04F402-E1E4-4B54-83B1-A5ECBC18976C}|Lab4.csproj|solutionrelative:lab4\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEPI\\C#\\Review\\CustomException\\Program.cs",
+              "RelativeDocumentMoniker": "CustomException\\Program.cs",
+              "ToolTip": "D:\\DEPI\\C#\\Review\\CustomException\\Program.cs",
+              "RelativeToolTip": "CustomException\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T03:25:37.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEPI\\C#\\Review\\Base Keyword\\Program.cs",
+              "RelativeDocumentMoniker": "Base Keyword\\Program.cs",
+              "ToolTip": "D:\\DEPI\\C#\\Review\\Base Keyword\\Program.cs",
+              "RelativeToolTip": "Base Keyword\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T02:53:10.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEPI\\C#\\Review\\Virtual\\Program.cs",
+              "RelativeDocumentMoniker": "Virtual\\Program.cs",
+              "ToolTip": "D:\\DEPI\\C#\\Review\\Virtual\\Program.cs",
+              "RelativeToolTip": "Virtual\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAmwBgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T02:36:49.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEPI\\C#\\Review\\Abstract\u0026Sealed\\Program.cs",
+              "RelativeDocumentMoniker": "Abstract\u0026Sealed\\Program.cs",
+              "ToolTip": "D:\\DEPI\\C#\\Review\\Abstract\u0026Sealed\\Program.cs",
+              "RelativeToolTip": "Abstract\u0026Sealed\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T02:19:34.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestGrade.cs",
+              "DocumentMoniker": "D:\\DEPI\\C#\\Review\\Lab4\\TestGrade.cs",
+              "RelativeDocumentMoniker": "Lab4\\TestGrade.cs",
+              "ToolTip": "D:\\DEPI\\C#\\Review\\Lab4\\TestGrade.cs",
+              "RelativeToolTip": "Lab4\\TestGrade.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T02:11:18.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Lab4",
+              "DocumentMoniker": "D:\\DEPI\\C#\\Review\\Lab4\\Lab4.csproj",
+              "RelativeDocumentMoniker": "Lab4\\Lab4.csproj",
+              "ToolTip": "D:\\DEPI\\C#\\Review\\Lab4\\Lab4.csproj",
+              "RelativeToolTip": "Lab4\\Lab4.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-28T02:11:03.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "D:\\DEPI\\C#\\Review\\Lab4\\Grade.cs",
+              "RelativeDocumentMoniker": "Lab4\\Grade.cs",
+              "ToolTip": "D:\\DEPI\\C#\\Review\\Lab4\\Grade.cs",
+              "RelativeToolTip": "Lab4\\Grade.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T02:06:03.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\DEPI\\C#\\Review\\Lab4\\Student.cs",
+              "RelativeDocumentMoniker": "Lab4\\Student.cs",
+              "ToolTip": "D:\\DEPI\\C#\\Review\\Lab4\\Student.cs",
+              "RelativeToolTip": "Lab4\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T02:04:50.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\DEPI\\C#\\Review\\Lab4\\Teacher.cs",
+              "RelativeDocumentMoniker": "Lab4\\Teacher.cs",
+              "ToolTip": "D:\\DEPI\\C#\\Review\\Lab4\\Teacher.cs",
+              "RelativeToolTip": "Lab4\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T02:04:29.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEPI\\C#\\Review\\Lab4\\Program.cs",
+              "RelativeDocumentMoniker": "Lab4\\Program.cs",
+              "ToolTip": "D:\\DEPI\\C#\\Review\\Lab4\\Program.cs",
+              "RelativeToolTip": "Lab4\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAcwA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T02:03:54.777Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

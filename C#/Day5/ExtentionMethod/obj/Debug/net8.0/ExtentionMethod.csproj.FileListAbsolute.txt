@@ -1,0 +1,15 @@
+D:\DEPI\C#\Review\Day4\ExtentionMethod\bin\Debug\net8.0\ExtentionMethod.exe
+D:\DEPI\C#\Review\Day4\ExtentionMethod\bin\Debug\net8.0\ExtentionMethod.deps.json
+D:\DEPI\C#\Review\Day4\ExtentionMethod\bin\Debug\net8.0\ExtentionMethod.runtimeconfig.json
+D:\DEPI\C#\Review\Day4\ExtentionMethod\bin\Debug\net8.0\ExtentionMethod.dll
+D:\DEPI\C#\Review\Day4\ExtentionMethod\bin\Debug\net8.0\ExtentionMethod.pdb
+D:\DEPI\C#\Review\Day4\ExtentionMethod\obj\Debug\net8.0\ExtentionMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\C#\Review\Day4\ExtentionMethod\obj\Debug\net8.0\ExtentionMethod.AssemblyInfoInputs.cache
+D:\DEPI\C#\Review\Day4\ExtentionMethod\obj\Debug\net8.0\ExtentionMethod.AssemblyInfo.cs
+D:\DEPI\C#\Review\Day4\ExtentionMethod\obj\Debug\net8.0\ExtentionMethod.csproj.CoreCompileInputs.cache
+D:\DEPI\C#\Review\Day4\ExtentionMethod\obj\Debug\net8.0\ExtentionMethod.sourcelink.json
+D:\DEPI\C#\Review\Day4\ExtentionMethod\obj\Debug\net8.0\ExtentionMethod.dll
+D:\DEPI\C#\Review\Day4\ExtentionMethod\obj\Debug\net8.0\refint\ExtentionMethod.dll
+D:\DEPI\C#\Review\Day4\ExtentionMethod\obj\Debug\net8.0\ExtentionMethod.pdb
+D:\DEPI\C#\Review\Day4\ExtentionMethod\obj\Debug\net8.0\ExtentionMethod.genruntimeconfig.cache
+D:\DEPI\C#\Review\Day4\ExtentionMethod\obj\Debug\net8.0\ref\ExtentionMethod.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DEPI\\ADO.net\\ADO.Net\\Task\\Task.csproj": {}
+    "D:\\DEPI\\ADO.Net\\ADO.Net\\Task\\Task.csproj": {}
   },
   "projects": {
-    "D:\\DEPI\\ADO.net\\ADO.Net\\Task\\Task.csproj": {
+    "D:\\DEPI\\ADO.Net\\ADO.Net\\Task\\Task.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DEPI\\ADO.net\\ADO.Net\\Task\\Task.csproj",
+        "projectUniqueName": "D:\\DEPI\\ADO.Net\\ADO.Net\\Task\\Task.csproj",
         "projectName": "Task",
-        "projectPath": "D:\\DEPI\\ADO.net\\ADO.Net\\Task\\Task.csproj",
+        "projectPath": "D:\\DEPI\\ADO.Net\\ADO.Net\\Task\\Task.csproj",
         "packagesPath": "C:\\Users\\3ML4Ever\\.nuget\\packages\\",
-        "outputPath": "D:\\DEPI\\ADO.net\\ADO.Net\\Task\\obj\\",
+        "outputPath": "D:\\DEPI\\ADO.Net\\ADO.Net\\Task\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\3ML4Ever\\AppData\\Roaming\\NuGet\\NuGet.Config",

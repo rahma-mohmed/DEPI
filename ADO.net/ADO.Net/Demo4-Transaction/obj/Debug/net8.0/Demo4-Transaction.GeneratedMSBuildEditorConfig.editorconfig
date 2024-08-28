@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Demo4_Transaction
-build_property.ProjectDir = D:\DEPI\ADO.net\ADO.Net\Demo4-Transaction\
+build_property.ProjectDir = D:\DEPI\ADO.Net\ADO.Net\Demo4-Transaction\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

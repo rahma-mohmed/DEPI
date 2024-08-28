@@ -1,0 +1,3 @@
+Application Started
+Number of students: 2
+Application ended.

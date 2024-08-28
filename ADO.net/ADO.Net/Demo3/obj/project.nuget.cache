@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RLdpz1WPpPI=",
+  "dgSpecHash": "hKYLqUXnxqU=",
   "success": true,
-  "projectFilePath": "D:\\DEPI\\ADO.net\\ADO.Net\\Demo3\\Demo3-Adapter.csproj",
+  "projectFilePath": "D:\\DEPI\\ADO.Net\\ADO.Net\\Demo3\\Demo3-Adapter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\3ML4Ever\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\3ML4Ever\\.nuget\\packages\\azure.identity\\1.11.3\\azure.identity.1.11.3.nupkg.sha512",

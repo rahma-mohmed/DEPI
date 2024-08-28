@@ -1,0 +1,24 @@
+D:\DEPI\C#\Review\C#_02\Application Profileing\bin\Debug\net8.0\Application Profiling.exe
+D:\DEPI\C#\Review\C#_02\Application Profileing\bin\Debug\net8.0\Application Profiling.deps.json
+D:\DEPI\C#\Review\C#_02\Application Profileing\bin\Debug\net8.0\Application Profiling.runtimeconfig.json
+D:\DEPI\C#\Review\C#_02\Application Profileing\bin\Debug\net8.0\Application Profiling.dll
+D:\DEPI\C#\Review\C#_02\Application Profileing\bin\Debug\net8.0\Application Profiling.pdb
+D:\DEPI\C#\Review\C#_02\Application Profileing\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\DEPI\C#\Review\C#_02\Application Profileing\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\DEPI\C#\Review\C#_02\Application Profileing\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\DEPI\C#\Review\C#_02\Application Profileing\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\DEPI\C#\Review\C#_02\Application Profileing\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\DEPI\C#\Review\C#_02\Application Profileing\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\DEPI\C#\Review\C#_02\Application Profileing\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\DEPI\C#\Review\C#_02\Application Profileing\obj\Debug\net8.0\Application Profiling.csproj.AssemblyReference.cache
+D:\DEPI\C#\Review\C#_02\Application Profileing\obj\Debug\net8.0\Application Profiling.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\C#\Review\C#_02\Application Profileing\obj\Debug\net8.0\Application Profiling.AssemblyInfoInputs.cache
+D:\DEPI\C#\Review\C#_02\Application Profileing\obj\Debug\net8.0\Application Profiling.AssemblyInfo.cs
+D:\DEPI\C#\Review\C#_02\Application Profileing\obj\Debug\net8.0\Application Profiling.csproj.CoreCompileInputs.cache
+D:\DEPI\C#\Review\C#_02\Application Profileing\obj\Debug\net8.0\Application Profiling.sourcelink.json
+D:\DEPI\C#\Review\C#_02\Application Profileing\obj\Debug\net8.0\Applicat.279CF3D1.Up2Date
+D:\DEPI\C#\Review\C#_02\Application Profileing\obj\Debug\net8.0\Application Profiling.dll
+D:\DEPI\C#\Review\C#_02\Application Profileing\obj\Debug\net8.0\refint\Application Profiling.dll
+D:\DEPI\C#\Review\C#_02\Application Profileing\obj\Debug\net8.0\Application Profiling.pdb
+D:\DEPI\C#\Review\C#_02\Application Profileing\obj\Debug\net8.0\Application Profiling.genruntimeconfig.cache
+D:\DEPI\C#\Review\C#_02\Application Profileing\obj\Debug\net8.0\ref\Application Profiling.dll

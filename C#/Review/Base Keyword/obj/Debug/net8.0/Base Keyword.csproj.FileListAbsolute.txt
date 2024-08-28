@@ -1,0 +1,15 @@
+D:\DEPI\C#\Review\Base Keyword\bin\Debug\net8.0\Base Keyword.exe
+D:\DEPI\C#\Review\Base Keyword\bin\Debug\net8.0\Base Keyword.deps.json
+D:\DEPI\C#\Review\Base Keyword\bin\Debug\net8.0\Base Keyword.runtimeconfig.json
+D:\DEPI\C#\Review\Base Keyword\bin\Debug\net8.0\Base Keyword.dll
+D:\DEPI\C#\Review\Base Keyword\bin\Debug\net8.0\Base Keyword.pdb
+D:\DEPI\C#\Review\Base Keyword\obj\Debug\net8.0\Base Keyword.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\C#\Review\Base Keyword\obj\Debug\net8.0\Base Keyword.AssemblyInfoInputs.cache
+D:\DEPI\C#\Review\Base Keyword\obj\Debug\net8.0\Base Keyword.AssemblyInfo.cs
+D:\DEPI\C#\Review\Base Keyword\obj\Debug\net8.0\Base Keyword.csproj.CoreCompileInputs.cache
+D:\DEPI\C#\Review\Base Keyword\obj\Debug\net8.0\Base Keyword.sourcelink.json
+D:\DEPI\C#\Review\Base Keyword\obj\Debug\net8.0\Base Keyword.dll
+D:\DEPI\C#\Review\Base Keyword\obj\Debug\net8.0\refint\Base Keyword.dll
+D:\DEPI\C#\Review\Base Keyword\obj\Debug\net8.0\Base Keyword.pdb
+D:\DEPI\C#\Review\Base Keyword\obj\Debug\net8.0\Base Keyword.genruntimeconfig.cache
+D:\DEPI\C#\Review\Base Keyword\obj\Debug\net8.0\ref\Base Keyword.dll

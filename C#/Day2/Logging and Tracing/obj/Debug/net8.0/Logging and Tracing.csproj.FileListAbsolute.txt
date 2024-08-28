@@ -1,0 +1,15 @@
+D:\DEPI\C#\Review\C#_02\Logging and Tracing\bin\Debug\net8.0\Logging and Tracing.exe
+D:\DEPI\C#\Review\C#_02\Logging and Tracing\bin\Debug\net8.0\Logging and Tracing.deps.json
+D:\DEPI\C#\Review\C#_02\Logging and Tracing\bin\Debug\net8.0\Logging and Tracing.runtimeconfig.json
+D:\DEPI\C#\Review\C#_02\Logging and Tracing\bin\Debug\net8.0\Logging and Tracing.dll
+D:\DEPI\C#\Review\C#_02\Logging and Tracing\bin\Debug\net8.0\Logging and Tracing.pdb
+D:\DEPI\C#\Review\C#_02\Logging and Tracing\obj\Debug\net8.0\Logging and Tracing.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\C#\Review\C#_02\Logging and Tracing\obj\Debug\net8.0\Logging and Tracing.AssemblyInfoInputs.cache
+D:\DEPI\C#\Review\C#_02\Logging and Tracing\obj\Debug\net8.0\Logging and Tracing.AssemblyInfo.cs
+D:\DEPI\C#\Review\C#_02\Logging and Tracing\obj\Debug\net8.0\Logging and Tracing.csproj.CoreCompileInputs.cache
+D:\DEPI\C#\Review\C#_02\Logging and Tracing\obj\Debug\net8.0\Logging and Tracing.sourcelink.json
+D:\DEPI\C#\Review\C#_02\Logging and Tracing\obj\Debug\net8.0\Logging and Tracing.dll
+D:\DEPI\C#\Review\C#_02\Logging and Tracing\obj\Debug\net8.0\refint\Logging and Tracing.dll
+D:\DEPI\C#\Review\C#_02\Logging and Tracing\obj\Debug\net8.0\Logging and Tracing.pdb
+D:\DEPI\C#\Review\C#_02\Logging and Tracing\obj\Debug\net8.0\Logging and Tracing.genruntimeconfig.cache
+D:\DEPI\C#\Review\C#_02\Logging and Tracing\obj\Debug\net8.0\ref\Logging and Tracing.dll

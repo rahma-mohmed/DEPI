@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JWDVdZIt91M=",
+  "success": true,
+  "projectFilePath": "D:\\DEPI\\C#\\Review\\Lab4\\Lab4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\3ML4Ever\\.nuget\\packages\\mstest.testframework\\3.5.2\\mstest.testframework.3.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DEPI\\ADO.net\\ADO.Net\\Demo2\\Demo2.csproj": {}
+    "D:\\DEPI\\ADO.Net\\ADO.Net\\Demo2\\Demo2.csproj": {}
   },
   "projects": {
-    "D:\\DEPI\\ADO.net\\ADO.Net\\Demo2\\Demo2.csproj": {
+    "D:\\DEPI\\ADO.Net\\ADO.Net\\Demo2\\Demo2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DEPI\\ADO.net\\ADO.Net\\Demo2\\Demo2.csproj",
+        "projectUniqueName": "D:\\DEPI\\ADO.Net\\ADO.Net\\Demo2\\Demo2.csproj",
         "projectName": "Demo2",
-        "projectPath": "D:\\DEPI\\ADO.net\\ADO.Net\\Demo2\\Demo2.csproj",
+        "projectPath": "D:\\DEPI\\ADO.Net\\ADO.Net\\Demo2\\Demo2.csproj",
         "packagesPath": "C:\\Users\\3ML4Ever\\.nuget\\packages\\",
         "outputPath": "D:\\DEPI\\ADO.net\\ADO.Net\\Demo2\\obj\\",
         "projectStyle": "PackageReference",
