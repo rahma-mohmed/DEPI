@@ -1,0 +1,15 @@
+D:\DEPI\C#\Review\HttpWebRequst-Response\bin\Debug\net8.0\HttpWebRequst-Response.exe
+D:\DEPI\C#\Review\HttpWebRequst-Response\bin\Debug\net8.0\HttpWebRequst-Response.deps.json
+D:\DEPI\C#\Review\HttpWebRequst-Response\bin\Debug\net8.0\HttpWebRequst-Response.runtimeconfig.json
+D:\DEPI\C#\Review\HttpWebRequst-Response\bin\Debug\net8.0\HttpWebRequst-Response.dll
+D:\DEPI\C#\Review\HttpWebRequst-Response\bin\Debug\net8.0\HttpWebRequst-Response.pdb
+D:\DEPI\C#\Review\HttpWebRequst-Response\obj\Debug\net8.0\HttpWebRequst-Response.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\C#\Review\HttpWebRequst-Response\obj\Debug\net8.0\HttpWebRequst-Response.AssemblyInfoInputs.cache
+D:\DEPI\C#\Review\HttpWebRequst-Response\obj\Debug\net8.0\HttpWebRequst-Response.AssemblyInfo.cs
+D:\DEPI\C#\Review\HttpWebRequst-Response\obj\Debug\net8.0\HttpWebRequst-Response.csproj.CoreCompileInputs.cache
+D:\DEPI\C#\Review\HttpWebRequst-Response\obj\Debug\net8.0\HttpWebRequst-Response.sourcelink.json
+D:\DEPI\C#\Review\HttpWebRequst-Response\obj\Debug\net8.0\HttpWebRequst-Response.dll
+D:\DEPI\C#\Review\HttpWebRequst-Response\obj\Debug\net8.0\refint\HttpWebRequst-Response.dll
+D:\DEPI\C#\Review\HttpWebRequst-Response\obj\Debug\net8.0\HttpWebRequst-Response.pdb
+D:\DEPI\C#\Review\HttpWebRequst-Response\obj\Debug\net8.0\HttpWebRequst-Response.genruntimeconfig.cache
+D:\DEPI\C#\Review\HttpWebRequst-Response\obj\Debug\net8.0\ref\HttpWebRequst-Response.dll

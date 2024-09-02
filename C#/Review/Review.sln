@@ -5,15 +5,21 @@ VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab4", "Lab4\Lab4.csproj", "{2A04F402-E1E4-4B54-83B1-A5ECBC18976C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract&Sealed", "Abstract&Sealed\Abstract&Sealed.csproj", "{DD0DBF7D-6744-4C5C-8D39-C7A11BA92984}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstract&Sealed", "Abstract&Sealed\Abstract&Sealed.csproj", "{DD0DBF7D-6744-4C5C-8D39-C7A11BA92984}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Virtual", "Virtual\Virtual.csproj", "{B4070AB1-3D83-40FD-A25A-77799AD93610}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Virtual", "Virtual\Virtual.csproj", "{B4070AB1-3D83-40FD-A25A-77799AD93610}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Base Keyword", "Base Keyword\Base Keyword.csproj", "{9210F370-B102-49CB-A0B2-843752595AA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Base Keyword", "Base Keyword\Base Keyword.csproj", "{9210F370-B102-49CB-A0B2-843752595AA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructors\Constructors.csproj", "{5760ECE3-C658-401F-9F45-8F8013465370}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructors", "Constructors\Constructors.csproj", "{5760ECE3-C658-401F-9F45-8F8013465370}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomException", "CustomException\CustomException.csproj", "{54CF3EBF-8EB5-4A78-AF43-E344DFE30977}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomException", "CustomException\CustomException.csproj", "{54CF3EBF-8EB5-4A78-AF43-E344DFE30977}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Files", "Files\Files.csproj", "{3C2ADF18-ABCD-426E-9DE6-BBEA7FBBFD50}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HttpWebRequst-Response", "HttpWebRequst-Response\HttpWebRequst-Response.csproj", "{1D03569C-0D1E-418B-BE62-FC779CA8E490}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskContinuation", "TaskContinuation\TaskContinuation.csproj", "{DDC717E3-830D-4284-B32F-251A2639DFAF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +51,18 @@ Global
 		{54CF3EBF-8EB5-4A78-AF43-E344DFE30977}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54CF3EBF-8EB5-4A78-AF43-E344DFE30977}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54CF3EBF-8EB5-4A78-AF43-E344DFE30977}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C2ADF18-ABCD-426E-9DE6-BBEA7FBBFD50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C2ADF18-ABCD-426E-9DE6-BBEA7FBBFD50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C2ADF18-ABCD-426E-9DE6-BBEA7FBBFD50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C2ADF18-ABCD-426E-9DE6-BBEA7FBBFD50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D03569C-0D1E-418B-BE62-FC779CA8E490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D03569C-0D1E-418B-BE62-FC779CA8E490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D03569C-0D1E-418B-BE62-FC779CA8E490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D03569C-0D1E-418B-BE62-FC779CA8E490}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDC717E3-830D-4284-B32F-251A2639DFAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDC717E3-830D-4284-B32F-251A2639DFAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDC717E3-830D-4284-B32F-251A2639DFAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDC717E3-830D-4284-B32F-251A2639DFAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

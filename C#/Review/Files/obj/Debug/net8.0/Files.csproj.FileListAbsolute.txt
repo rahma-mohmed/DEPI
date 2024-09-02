@@ -1,0 +1,15 @@
+D:\DEPI\C#\Review\Files\bin\Debug\net8.0\Files.exe
+D:\DEPI\C#\Review\Files\bin\Debug\net8.0\Files.deps.json
+D:\DEPI\C#\Review\Files\bin\Debug\net8.0\Files.runtimeconfig.json
+D:\DEPI\C#\Review\Files\bin\Debug\net8.0\Files.dll
+D:\DEPI\C#\Review\Files\bin\Debug\net8.0\Files.pdb
+D:\DEPI\C#\Review\Files\obj\Debug\net8.0\Files.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\C#\Review\Files\obj\Debug\net8.0\Files.AssemblyInfoInputs.cache
+D:\DEPI\C#\Review\Files\obj\Debug\net8.0\Files.AssemblyInfo.cs
+D:\DEPI\C#\Review\Files\obj\Debug\net8.0\Files.csproj.CoreCompileInputs.cache
+D:\DEPI\C#\Review\Files\obj\Debug\net8.0\Files.sourcelink.json
+D:\DEPI\C#\Review\Files\obj\Debug\net8.0\Files.dll
+D:\DEPI\C#\Review\Files\obj\Debug\net8.0\refint\Files.dll
+D:\DEPI\C#\Review\Files\obj\Debug\net8.0\Files.pdb
+D:\DEPI\C#\Review\Files\obj\Debug\net8.0\Files.genruntimeconfig.cache
+D:\DEPI\C#\Review\Files\obj\Debug\net8.0\ref\Files.dll
